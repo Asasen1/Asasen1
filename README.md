@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asasen1.Asasen1&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +14,10 @@
 
 ###
 
-<p align="left">I'm a .NET software developer. My professional development area is backend. Complex services for business work. I like to learn new things.</p>
+<p align="left">I'm a .NET software developer.
+  My professional development area is backend.
+  Complex services for business work.
+  I like to learn new things.</p>
 
 ###
 
@@ -62,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asasen1.Asasen1&left_color=aliceblue&right_color=aqua"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asasen1.Asasen1&"  />
 </div>
 
 ###
