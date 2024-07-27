@@ -14,9 +14,9 @@
 
 ###
 
-<p align="left">I'm a .NET software developer.
-  My professional development area is backend.
-  Complex services for business work.
+<p align="left">I'm a .NET software developer.<br>
+  My professional development area is backend.<br>
+  Complex services for business work.<br>
   I like to learn new things.</p>
 
 ###
