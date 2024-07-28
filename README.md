@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="[https://skillicons.dev/icons?i=dotnet](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_6o35VvArbcAzOnRyHMX2DzYMq0nzprmYQ&s)" height="40" alt="dot-net logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fasp.net%2F&psig=AOvVaw2H365JGqTdIrui-7UCVAm8&ust=1722285195123000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODYybvKyocDFQAAAAAdAAAAABAE" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
