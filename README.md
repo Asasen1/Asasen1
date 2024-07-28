@@ -28,6 +28,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
+  <img src="[https://skillicons.dev/icons?i=dotnet](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_6o35VvArbcAzOnRyHMX2DzYMq0nzprmYQ&s)" height="40" alt="dot-net logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
