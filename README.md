@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://styles.redditmedia.com/t5_3c30n/styles/communityIcon_zk9okbrbph141.png" height="40" alt="dot-net logo"  />
+  <img src="https://www.brunobrito.net.br/content/images/2018/05/que-es-aspnet-core.jpg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
