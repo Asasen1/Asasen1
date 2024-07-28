@@ -28,9 +28,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ncqwr5Q81_L_AE-kPSvCVgGXFABCaYNZQ2TXnwp4czhEf4LIodMnm4akHUBUpMVOg-I&usqp=CAU" height="40" alt="dot-net logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ncqwr5Q81_L_AE-kPSvCVgGXFABCaYNZQ2TXnwp4czhEf4LIodMnm4akHUBUpMVOg-I&usqp=CAU" height="40" alt="ef-core logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_6o35VvArbcAzOnRyHMX2DzYMq0nzprmYQ&s.jpg" height="40" alt="dot-net logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_6o35VvArbcAzOnRyHMX2DzYMq0nzprmYQ&s.jpg" height="40" alt="asp-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
