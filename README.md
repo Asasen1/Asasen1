@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img style="border-radius: 30px" src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="40" alt="jwt logo"  />
+  <img style="border-radius: 30" src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="40" alt="jwt logo"  />
   <img width="12" />
   <img src="https://panzura.com/wp-content/uploads/2021/04/minio.png" height="40" alt="minio logo"  />
   <img width="12" />
