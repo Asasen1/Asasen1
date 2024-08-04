@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us.png" height="40" alt="jwt logo"  />
+  <img src="https://i.imgur.com/psvdpBX.png" height="40" alt="jwt logo"  />
   <img width="12" />
   <img src="https://panzura.com/wp-content/uploads/2021/04/minio.png" height="40" alt="minio logo"  />
   <img width="12" />
