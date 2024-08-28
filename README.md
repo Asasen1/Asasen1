@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
+  <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon.png" height="40" alt="dapper"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
