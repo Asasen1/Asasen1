@@ -28,9 +28,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://www.ipentec.com/document/image/document-category/asp-net-mvc" height="40" alt="asp-net logo"  />
+  <img src="https://www.ipentec.com/document/image/document-category/asp-net-mvc" height="50" width="50"  alt="asp-net logo"  />
   <img width="12" />
-   <img src="https://plugins.jetbrains.com/files/18147/403475/icon/pluginIcon.png" height="40" alt="ef-core logo"  />
+   <img src="https://downloads.marketplace.jetbrains.com/files/18147/403475/icon/pluginIcon.png" height="40" alt="ef-core logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/psvdpBX.png" height="40" alt="jwt logo"  />
   <img width="12" />
