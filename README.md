@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
-  <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" height="40" alt="kafka logo"  />
+  <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/kafka/img/kafka-stack-220x234.png" height="40" alt="kafka logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" height="40" alt="nginx logo"  />
   <img width="12" />
