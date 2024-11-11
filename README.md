@@ -42,11 +42,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" height="40" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373924/nginx.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" height="40" alt="dapper"  />
   <img width="12" />
