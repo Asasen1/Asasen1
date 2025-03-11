@@ -1,10 +1,3 @@
- <style>
-        .rounded-image {
-            border-radius: 20px; /* Установите радиус скругления по вашему усмотрению */
-            overflow: hidden; /* Скрыть части изображения, выходящие за рамки скругления */
-        }
-    </style>
-    
 <div align="center">
   <a href="https://t.me/artemiy_dotnet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -37,9 +30,7 @@
   <img width="12" />
   <img src="https://i.imgur.com/psvdpBX.png" height="40" alt="jwt logo"  />
   <img width="12" />
- <div class="rounded-image">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrwa-KVOysX8zYJJ2khVLXgAEXCsO-42K1g&s" height="40" alt="ef logo" />
-</div>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrwa-KVOysX8zYJJ2khVLXgAEXCsO-42K1g&s" height="40" style="border-radius: 20px;" alt="ef logo" />
   <img width="12" />
   <img src="https://panzura.com/wp-content/uploads/2021/04/minio.png" height="40" alt="minio logo"  />
   <img width="12" />
