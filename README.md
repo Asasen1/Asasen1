@@ -26,6 +26,7 @@
 ###
 
 <div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrwa-KVOysX8zYJJ2khVLXgAEXCsO-42K1g&s" height="40" alt="ef logo" style="border-radius: 20px;" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/psvdpBX.png" height="40" alt="jwt logo"  />
