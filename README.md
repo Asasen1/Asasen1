@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://i.imgur.com/psvdpBX.png" height="40" alt="jwt logo"  />
   <img width="12" />
-   <img src="ef-round-corners.png" alt="ef logo" />
+   <img src="ef-round-corners.png" height="40" width="12" alt="ef logo" />
   <img width="12" />
   <img src="https://panzura.com/wp-content/uploads/2021/04/minio.png" height="40" alt="minio logo"  />
   <img width="12" />
