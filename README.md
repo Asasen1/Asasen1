@@ -32,7 +32,7 @@
   <img width="12" />
    <img src="ef-round-corners.png" height="40" width="40" alt="ef logo" />
   <img width="12" />
-  <img src="https://panzura.com/wp-content/uploads/2021/04/minio.png" height="40" alt="minio logo"  />
+  <img src="https://vendure.io/_next/image?url=https%3A%2F%2Fhub.vendure.io%2Fassets%2Fpreview%2F48%2Fminio0logo__preview.png%3Fh%3D800%26w%3D800%26q%3D90%26mode%3Dcrop%26fpy%3Dundefined%26fpx%3Dundefined%26format%3Dwebp&w=640&q=75" height="40" alt="minio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
